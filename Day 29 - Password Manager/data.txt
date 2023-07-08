@@ -1,0 +1,4 @@
+amazon | fawaz@gmail.com | password
+gmail | fawaz@gmail.com | pass123
+amazon | fawaz@gmail.com | 123455
+Twitter | fawaz@gmail.com | +6)5ya6Styb(yaYR
